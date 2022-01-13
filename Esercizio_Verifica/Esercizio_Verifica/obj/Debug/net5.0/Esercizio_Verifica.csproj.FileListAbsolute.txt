@@ -1,0 +1,16 @@
+E:\4F A.S. 2021-2022\Esercizio_Verifica\Esercizio_Verifica\bin\Debug\net5.0\Esercizio_Verifica.exe
+E:\4F A.S. 2021-2022\Esercizio_Verifica\Esercizio_Verifica\bin\Debug\net5.0\Esercizio_Verifica.deps.json
+E:\4F A.S. 2021-2022\Esercizio_Verifica\Esercizio_Verifica\bin\Debug\net5.0\Esercizio_Verifica.runtimeconfig.json
+E:\4F A.S. 2021-2022\Esercizio_Verifica\Esercizio_Verifica\bin\Debug\net5.0\Esercizio_Verifica.runtimeconfig.dev.json
+E:\4F A.S. 2021-2022\Esercizio_Verifica\Esercizio_Verifica\bin\Debug\net5.0\Esercizio_Verifica.dll
+E:\4F A.S. 2021-2022\Esercizio_Verifica\Esercizio_Verifica\bin\Debug\net5.0\ref\Esercizio_Verifica.dll
+E:\4F A.S. 2021-2022\Esercizio_Verifica\Esercizio_Verifica\bin\Debug\net5.0\Esercizio_Verifica.pdb
+E:\4F A.S. 2021-2022\Esercizio_Verifica\Esercizio_Verifica\obj\Debug\net5.0\Esercizio_Verifica.csproj.AssemblyReference.cache
+E:\4F A.S. 2021-2022\Esercizio_Verifica\Esercizio_Verifica\obj\Debug\net5.0\Esercizio_Verifica.GeneratedMSBuildEditorConfig.editorconfig
+E:\4F A.S. 2021-2022\Esercizio_Verifica\Esercizio_Verifica\obj\Debug\net5.0\Esercizio_Verifica.AssemblyInfoInputs.cache
+E:\4F A.S. 2021-2022\Esercizio_Verifica\Esercizio_Verifica\obj\Debug\net5.0\Esercizio_Verifica.AssemblyInfo.cs
+E:\4F A.S. 2021-2022\Esercizio_Verifica\Esercizio_Verifica\obj\Debug\net5.0\Esercizio_Verifica.csproj.CoreCompileInputs.cache
+E:\4F A.S. 2021-2022\Esercizio_Verifica\Esercizio_Verifica\obj\Debug\net5.0\Esercizio_Verifica.dll
+E:\4F A.S. 2021-2022\Esercizio_Verifica\Esercizio_Verifica\obj\Debug\net5.0\ref\Esercizio_Verifica.dll
+E:\4F A.S. 2021-2022\Esercizio_Verifica\Esercizio_Verifica\obj\Debug\net5.0\Esercizio_Verifica.pdb
+E:\4F A.S. 2021-2022\Esercizio_Verifica\Esercizio_Verifica\obj\Debug\net5.0\Esercizio_Verifica.genruntimeconfig.cache
